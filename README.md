@@ -27,9 +27,6 @@ Este projeto consiste em um botão de ação integrado ao sistema ERP Sankhya, q
 - Este projeto é fornecido como exemplo e deve ser adaptado para atender às necessidades específicas do seu ambiente.
 - Certifique-se de substituir os valores fictícios por chamadas reais à API e ajuste conforme necessário.
 
-## Licença
-Este projeto está disponibilizado sob a [sua escolha de licença de código aberto](https://choosealicense.com/).
-
 ## Referências
 - [Documentação da API "Rick and Morty"](https://rickandmortyapi.com/documentation)
 - [Documentação do ERP Sankhya](https://developer.sankhya.com.br)
